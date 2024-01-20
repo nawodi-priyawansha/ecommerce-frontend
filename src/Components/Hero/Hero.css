@@ -53,5 +53,6 @@
 }
 .hero-right img{
     padding-right: 0px;
-    margin-top: 120px;
+    margin-top: 10px;
+    height: 100vh;
 }
